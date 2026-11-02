@@ -1,1 +1,1 @@
-#quizet
+#quizzet
